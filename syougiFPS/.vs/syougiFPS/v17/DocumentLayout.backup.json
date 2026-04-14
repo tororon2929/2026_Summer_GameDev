@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +25,21 @@
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\syuny\\OneDrive\\Documents\\2026_Summer_GameDev\\syougiFPS\\syougiFPS\\main.cpp",
               "RelativeDocumentMoniker": "syougiFPS\\main.cpp",
-              "ToolTip": "C:\\Users\\syuny\\OneDrive\\Documents\\2026_Summer_GameDev\\syougiFPS\\syougiFPS\\main.cpp*",
-              "RelativeToolTip": "syougiFPS\\main.cpp*",
+              "ToolTip": "C:\\Users\\syuny\\OneDrive\\Documents\\2026_Summer_GameDev\\syougiFPS\\syougiFPS\\main.cpp",
+              "RelativeToolTip": "syougiFPS\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-13T04:25:36.818Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
             }
           ]
         },
